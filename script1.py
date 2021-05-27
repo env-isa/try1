@@ -11,3 +11,6 @@ print('goodbye world')
 
 if 'Gabi' == 'Gabi':
     print('Gabi')
+    
+if 2==2:
+    print('ben')
