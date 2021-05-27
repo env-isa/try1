@@ -6,3 +6,5 @@ Created on Wed May 26 17:10:29 2021
 """
 
 print('Hello world')
+
+print('goodbye world')
